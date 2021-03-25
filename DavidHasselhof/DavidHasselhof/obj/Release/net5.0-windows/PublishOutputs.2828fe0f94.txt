@@ -1,0 +1,5 @@
+C:\Users\admin\Desktop\Nueva carpeta\DavidHasselhof.exe
+C:\Users\admin\Desktop\Nueva carpeta\DavidHasselhof.dll
+C:\Users\admin\Desktop\Nueva carpeta\DavidHasselhof.deps.json
+C:\Users\admin\Desktop\Nueva carpeta\DavidHasselhof.runtimeconfig.json
+C:\Users\admin\Desktop\Nueva carpeta\DavidHasselhof.pdb
