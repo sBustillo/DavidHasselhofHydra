@@ -5,4 +5,4 @@
 
 Is a simple Hydra prank for people who's dont lock the screen.
 
-U can stop it from task manager.
+can be stoped with taskmang
